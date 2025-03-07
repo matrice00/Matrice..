@@ -23,8 +23,8 @@ Passionate about **data analysis, frontend development**, and a touch of **backe
 ---
 
 ## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical](https://github.com/matrice00))  
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical](https://github.com/matrice00))  
 
 ---
 
